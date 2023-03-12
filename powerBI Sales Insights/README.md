@@ -19,4 +19,4 @@ To use this dashboard, follow the steps below:
 3. Open the .pbix file provided with this dashboard.
 4. The data model and visualizations will be loaded automatically.
 5. Refresh the data by clicking on the "Refresh" button in the "Home" tab of the ribbon.
-6. Data Cleaning and Remodeling
+6. Data Cleaning and Remodeling.
