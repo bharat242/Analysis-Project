@@ -1,7 +1,7 @@
-## World Economic Indicator Dataset Analysis
+# World Economic Indicator Dataset Analysis
 This analysis aims to determine which factors a country should focus on to sustain GDP/Capita. The dataset used is the World Economic Indicator Dataset, which contains various parameters for different countries and regions that can impact GDP/Capita. The analysis was conducted using data cleaning, merging, and correlation checking methods.
 
-# Findings
+## Findings
 The analysis revealed the following key findings:
 
 1. The relation between GDP/Capita and Lending Interest Rate behaves differently for countries with high GDP/Capita and low GDP/Capita. Countries with high GDP/Capita have a positive impact of lending interest on their GDP/Capita, while for the rest of the countries, the impact is slightly negative.
