@@ -1,5 +1,4 @@
 # Churn Analysis using PowerBI
-Bank Churn Analysis I am excited to share the dashboard and the report that I have built using Power BI.
 
 Report: RBC churn analysis. Customer retention is one of the biggest challenges facing companies around the world. A lot of resources, hard work & planning go into bringing customers on board & customer attrition makes companies do the extra exercise of bringing new customers to fill the void alongside targeted expansion activities. Churn rate analytics is the solution that can prevent this leakage of customer loss
 
