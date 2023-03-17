@@ -1,4 +1,5 @@
 Power BI Executive Summary Financial Report
+
 This repository contains a Power BI project focused on creating an executive summary financial report. The report was designed 
 to answer our manager's top questions, including:
 
